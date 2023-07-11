@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe.config
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\bin\Debug\ConAppOne.pdb
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.exe
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppOne\ConAppOne\obj\Debug\ConAppOne.pdb
